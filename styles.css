@@ -114,10 +114,10 @@ body{
 .cta img{height:64px;width:auto;filter:drop-shadow(0 8px 22px hsl(0 80% 50% / .45))}
 .hero-desc{max-width:820px;margin-inline:auto;color:hsl(var(--muted))}
 .register_now{
-  margin-left: 450px;
+  margin-left: 500px;
 }
 .source_pic{
-  margin-left: 270px;
+  margin-left: 300px;
 }
 .countdown{
   display:inline-flex;align-items:center;gap:14px;justify-content:center;margin-top:6px;
@@ -564,6 +564,7 @@ input,textarea{
   .countdown .time{min-width:70px}
   .footer-inner{flex-direction:column}
 }
+
 
 
 
