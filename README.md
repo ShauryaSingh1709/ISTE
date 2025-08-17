@@ -35,22 +35,23 @@ open index.html
 
 
 
-```🏆 Credits
+## 🏆 Credits
 
-This heist was pulled off by the crew 💣
+This heist was pulled off by the crew 💣  
 
-🕶️ Shaurya Singh – The Mastermind
+![Mastermind](https://img.shields.io/badge/Shaurya_Singh-Mastermind-red?style=for-the-badge&logo=target)  
+![Techie](https://img.shields.io/badge/Hamzaul_Rahman-Techie-blue?style=for-the-badge&logo=codeforces)  
+![Designer](https://img.shields.io/badge/Vashu_Panwar-Designer-green?style=for-the-badge&logo=adobecreativecloud)  
 
-🎧 Hamzaul Rahman – The Techie
+---
 
-🎨 Vashu Panwar – The Designer
+## 📜 License & Copyright
 
+![License](https://img.shields.io/badge/Copyright-2025-orange?style=flat-square)  
+(C) Copyright 2025  
+**Shaurya Singh, Hamzaul Rahman, Vashu Panwar**  
 
-📜 License & Copyright
+All rights reserved.  
+Unauthorized copying of this repo, via any medium, is strictly prohibited.  
+**The vault is protected by the crew. 🔒**
 
-(C) Copyright 2025
-Shaurya Singh, Hamzaul Rahman, Vashu Panwar
-
-All rights reserved.
-Unauthorized copying of this repo, via any medium, is strictly prohibited.
-The vault is protected by the crew. 🔒 ```
