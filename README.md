@@ -35,7 +35,7 @@ open index.html
 
 
 
-🏆 Credits
+```🏆 Credits
 
 This heist was pulled off by the crew 💣
 
@@ -53,4 +53,4 @@ Shaurya Singh, Hamzaul Rahman, Vashu Panwar
 
 All rights reserved.
 Unauthorized copying of this repo, via any medium, is strictly prohibited.
-The vault is protected by the crew. 🔒
+The vault is protected by the crew. 🔒 ```
