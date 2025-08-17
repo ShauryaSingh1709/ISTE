@@ -30,7 +30,8 @@ Clone the repo and start your own heist locally:
 ```bash
 git clone https://github.com/your-username/vault-heist.git
 cd vault-heist
-open index.html
+open index.html ```
+
 
 
 🏆 Credits
